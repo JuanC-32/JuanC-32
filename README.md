@@ -87,5 +87,5 @@ Aplicación web para que equipos remotos organicen tareas, colaboren en proyecto
 
 ## Contacto
 
-GitHub: [JuanC-32](https://github.com/JuanC-32)
-Linkedin: [Juan Camilo Caicedo](www.linkedin.com/in/juan-camilo-caicedo-2241aa208).
+- GitHub: [JuanC-32](https://github.com/JuanC-32).
+- Linkedin: [Juan Camilo Caicedo](www.linkedin.com/in/juan-camilo-caicedo-2241aa208).
