@@ -6,10 +6,6 @@
 
 **Backend Developer Junior** · Cali, Colombia · Abierto a oportunidades remotas
 
-<a href="https://github.com/JuanC-32"><img src="https://img.shields.io/badge/GitHub-JuanC--32-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub JuanC-32"></a>
-<img src="https://img.shields.io/badge/Rol-Backend%20Junior-3b82f6?style=for-the-badge&labelColor=0d1117" alt="Rol Backend Junior">
-<img src="https://img.shields.io/badge/Enfoque-Node.js-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Enfoque Node.js">
-
 </div>
 
 ---
@@ -49,10 +45,9 @@ Estoy haciendo la transición al desarrollo de software con foco en **backend**:
 
 ### [Mantix](https://github.com/JuanC-32/Mantix)
 
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-3b82f6?style=flat-square&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-22d3ee?style=flat-square&logo=nodedotjs&logoColor=0d1117)
-![Express](https://img.shields.io/badge/Express-3b82f6?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-22d3ee?style=flat-square&logo=mysql&logoColor=0d1117)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Node.js, Express, MySQL" height="40">
+
+**Estado:** en desarrollo.
 
 API REST para la gestión de activos de mantenimiento industrial. Es el proyecto donde junto lo que hice en planta con lo que estoy aprendiendo en backend.
 
@@ -63,19 +58,17 @@ API REST para la gestión de activos de mantenimiento industrial. Es el proyecto
 
 ### [TaskFlow](https://github.com/JuanC-32/TaskFlow)
 
-![Estado](https://img.shields.io/badge/estado-MVP-3b82f6?style=flat-square&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-22d3ee?style=flat-square&logo=react&logoColor=0d1117)
-![Vite](https://img.shields.io/badge/Vite-3b82f6?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite" height="40">
 
-MVP de una aplicación web para que equipos remotos organicen tareas, colaboren en proyectos y midan su productividad. Lo desarrollé para una empresa ficticia, CloudSync Solutions. Es un proyecto de frontend con React y Vite, con el que estoy practicando el lado visual de las aplicaciones.
+**Estado:** MVP.
+
+Aplicación web para que equipos remotos organicen tareas, colaboren en proyectos y midan su productividad. La desarrollé para una empresa ficticia, CloudSync Solutions. Es un proyecto de frontend con React y Vite, con el que estoy practicando el lado visual de las aplicaciones.
 
 ## Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJuanC-32&query=%24.public_repos&label=repositorios%20p%C3%BAblicos&style=for-the-badge&labelColor=0d1117&color=3b82f6" alt="Repositorios públicos">
-<img src="https://img.shields.io/github/languages/top/JuanC-32/Mantix?style=for-the-badge&labelColor=0d1117&color=22d3ee&label=Mantix" alt="Lenguaje principal de Mantix">
-<img src="https://img.shields.io/github/last-commit/JuanC-32/Mantix?style=for-the-badge&labelColor=0d1117&color=3b82f6&label=%C3%BAltimo%20commit%20en%20Mantix" alt="Último commit en Mantix">
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuanC-32&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Lenguajes más usados en mis repositorios">
 
 </div>
 
@@ -94,4 +87,4 @@ MVP de una aplicación web para que equipos remotos organicen tareas, colaboren 
 
 ## Contacto
 
-<a href="https://github.com/JuanC-32"><img src="https://img.shields.io/badge/GitHub-JuanC--32-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub JuanC-32"></a>
+GitHub: [github.com/JuanC-32](https://github.com/JuanC-32)
