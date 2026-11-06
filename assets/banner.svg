@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Juan Camilo - Backend Developer Junior</title>
+  <desc id="d">Banner oscuro con engranaje industrial conectado a nodos de red, representando backend, Node.js e IoT.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e14"/>
+      <stop offset="1" stop-color="#0f1724"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c2535" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.55"/>
+  <circle cx="900" cy="160" r="230" fill="url(#glow)"/>
+
+  <!-- Texto -->
+  <rect x="70" y="72" width="4" height="176" rx="2" fill="url(#accent)"/>
+  <text x="94" y="104" font-family="'Courier New', Consolas, monospace" font-size="15" letter-spacing="4" fill="#22d3ee">BACKEND DEVELOPER JUNIOR</text>
+  <text x="92" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f1f5f9">Juan Camilo</text>
+  <text x="94" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Node.js  ·  Express  ·  APIs REST  ·  MySQL</text>
+  <text x="94" y="246" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#3b82f6">Mecatrónica industrial + desarrollo de software</text>
+  <text x="94" y="290" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#475569">$ node src/server.js</text>
+
+  <!-- Conexiones -->
+  <g stroke="#22d3ee" stroke-width="1.4" stroke-dasharray="5 6" opacity="0.55" fill="none">
+    <path d="M900 160 L770 92"/>
+    <path d="M900 160 L1040 86"/>
+    <path d="M900 160 L1070 214"/>
+    <path d="M900 160 L780 238"/>
+    <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Engranaje -->
+  <g transform="translate(900 160)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="60s" repeatCount="indefinite"/>
+      <circle r="66" fill="none" stroke="#3b82f6" stroke-width="16" stroke-dasharray="17.3 17.3"/>
+      <circle r="56" fill="#0d1420" stroke="#3b82f6" stroke-width="3"/>
+      <circle r="34" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.8"/>
+      <g stroke="#3b82f6" stroke-width="2" opacity="0.7">
+        <path d="M0 -34V-56M0 34V56M-34 0H-56M34 0H56"/>
+      </g>
+    </g>
+    <circle r="12" fill="#0a0e14" stroke="#22d3ee" stroke-width="2.5"/>
+    <circle r="4" fill="#22d3ee"/>
+  </g>
+
+  <!-- Nodos -->
+  <g fill="#0d1420" stroke="#22d3ee" stroke-width="2">
+    <rect x="750" y="76" width="40" height="32" rx="6"/>
+    <rect x="1020" y="70" width="40" height="32" rx="6"/>
+    <rect x="1050" y="198" width="40" height="32" rx="6"/>
+    <rect x="760" y="222" width="40" height="32" rx="6"/>
+  </g>
+  <g stroke="#3b82f6" stroke-width="2" stroke-linecap="round">
+    <path d="M758 88H782M758 96H772"/>
+    <path d="M1028 82H1052M1028 90H1042"/>
+    <path d="M1058 210H1082M1058 218H1072"/>
+    <path d="M768 234H792M768 242H782"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="786" cy="80" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1056" cy="74" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1086" cy="202" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="796" cy="226" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Señal IoT -->
+  <g fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" opacity="0.7">
+    <path d="M1102 196 A16 16 0 0 1 1118 212"/>
+    <path d="M1102 184 A28 28 0 0 1 1130 212" opacity="0.6"/>
+    <path d="M1102 172 A40 40 0 0 1 1142 212" opacity="0.35"/>
+  </g>
+
+  <!-- Etiquetas -->
+  <g font-family="'Courier New', Consolas, monospace" font-size="12" fill="#64748b">
+    <text x="740" y="64">API</text>
+    <text x="1020" y="58">DB</text>
+    <text x="1096" y="250">IoT</text>
+    <text x="762" y="276">I/O</text>
+  </g>
+</svg>
