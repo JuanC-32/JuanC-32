@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Juan Camilo - Backend Developer Junior" width="100%">
+<img src="assets/banner.svg" alt="Juan Caicedo - Backend Developer Junior" width="100%">
 
 <br>
 
@@ -87,4 +87,5 @@ Aplicación web para que equipos remotos organicen tareas, colaboren en proyecto
 
 ## Contacto
 
-GitHub: [github.com/JuanC-32](https://github.com/JuanC-32)
+GitHub: [JuanC-32](https://github.com/JuanC-32)
+Linkedin: [Juan Camilo Caicedo](www.linkedin.com/in/juan-camilo-caicedo-2241aa208).
