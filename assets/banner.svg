@@ -26,7 +26,7 @@
   <!-- Texto -->
   <rect x="70" y="72" width="4" height="176" rx="2" fill="url(#accent)"/>
   <text x="94" y="104" font-family="'Courier New', Consolas, monospace" font-size="15" letter-spacing="4" fill="#22d3ee">BACKEND DEVELOPER JUNIOR</text>
-  <text x="92" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f1f5f9">Juan Camilo</text>
+  <text x="92" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f1f5f9">Juan Caicedo</text>
   <text x="94" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Node.js  ·  Express  ·  APIs REST  ·  MySQL</text>
   <text x="94" y="246" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#3b82f6">Mecatrónica industrial + desarrollo de software</text>
   <text x="94" y="290" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#475569">$ node src/server.js</text>
